@@ -3,6 +3,7 @@
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
+* Theme Edited by Parth Shah 
 */
 
 /*--------------------------------------------------------------
@@ -125,11 +126,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 36px;
   }
   #header h2 {
-    font-size: 20px;
+    font-size: 17px;
     line-height: 30px;
   }
   #header .social-links {
-    margin-top: 15px;
+    margin-top: -15px;
   }
   #header .container {
     display: flex;
